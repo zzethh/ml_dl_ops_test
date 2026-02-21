@@ -1,0 +1,2 @@
+wandb: 🚀 View run vocal-universe-2 at: https://wandb.ai/lab72343/STL10-ResNet18/runs/r4djt0nw
+wandb: Find logs at: wandb/run-20260221_103551-r4djt0nw/logs
